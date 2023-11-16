@@ -1,4 +1,4 @@
-# ☕ Exercício de Preenchimento de Currículo Básico em JSP 
+# ☕ Preenchimento de Currículo Básico em JSP 
 
 Este é um exercício prático desenvolvido para entender e aplicar conceitos básicos de JSP (JavaServer Pages) para preenchimento de um currículo simples.
 
